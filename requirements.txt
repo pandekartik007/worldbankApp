@@ -25,6 +25,7 @@ google-auth==1.11.0
 google-auth-oauthlib==0.4.1
 google-pasta==0.1.8
 grpcio==1.27.1
+gunicorn==20.0.4
 gym==0.17.1
 h5py==2.10.0
 helper==2.4.2
@@ -80,6 +81,7 @@ pyglet==1.5.0
 Pygments==2.6.1
 pylint==2.4.4
 pyparsing==2.4.6
+pypiwin32==223
 pyrsistent==0.15.7
 python-dateutil==2.8.1
 pytz==2019.3
